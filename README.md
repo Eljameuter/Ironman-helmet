@@ -17,3 +17,4 @@ How to build it:
 - download and print all necessary files from thingiverse: https://www.thingiverse.com/thing:4629346
 - assemble all parts
 - connect all the components as shown below:
+-![circuit for Ironman helmet](https://github.com/Eljameuter/Ironman-helmet/blob/main/circuit.png)
