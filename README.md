@@ -1,6 +1,8 @@
 # Ironman-helmet
 I build an Ironman helmet because it's cool. 
+-
 ![finished Ironman helmet](https://github.com/Eljameuter/Ironman-helmet/blob/main/ironmanhelmetfinished.jpg)
+-
 What you need to make it yourself:
 - arduino nano
 - 2 servos
